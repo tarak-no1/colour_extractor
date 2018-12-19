@@ -1,0 +1,27 @@
+{
+	"topwear":
+	{
+		"meta":"/home/ubuntu/darknet/config_top/obj_top.data",
+		"weights_path":"/home/ubuntu/darknet/backup_top/yolo-obj_900.weights"
+	},
+	"fullwear":
+	{
+		"meta":"/home/ubuntu/darknet/config/obj.data",
+		"weights_path":"/home/ubuntu/darknet/backup/yolo-obj_4100.weights"
+	},
+	"bottomwear":
+	{
+		"meta":"/home/ubuntu/darknet/config_bottom/obj_bottom.data",
+		"weights_path":"/home/ubuntu/darknet/backup_bottom/yolo-obj_900.weights"
+	},
+	"footwear":
+	{
+		"meta" : "",
+		"weights_path" : ""
+	},
+	"accessories":
+	{
+		"meta" : "",
+		"weights_path" : ""
+	}
+}

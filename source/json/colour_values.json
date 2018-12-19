@@ -1,0 +1,14 @@
+{
+  "women_tops": {
+    "darkslategrey": "navy blue",
+    "linen" : "white",
+    "darksalmon":"coral",
+    "crimson" : "red",
+    "gainsboro" : "ivory",
+    "burlywood" : "yellow",
+    "goldenrod" : "mustard",
+    "firebrick" : "red",
+    "sandybrown" : "yellow",
+    "darkkhaki" : "darkyellow"
+  }
+}
